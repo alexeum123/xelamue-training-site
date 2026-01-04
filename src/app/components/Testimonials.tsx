@@ -280,13 +280,13 @@ export function Testimonials() {
                                   onClick={() => changeImageOrientation(testimonial.id, 'vertical')}
                                   className="rounded-md px-2 py-1 text-sm text-white/80 hover:bg-[#00d4ff]/10 hover:text-[#00d4ff] transition-colors duration-200"
                                 >
-                                  📱 Vertical
+                                  Vertical
                                 </DropdownMenuItem>
                                 <DropdownMenuItem
                                   onClick={() => changeImageOrientation(testimonial.id, 'horizontal')}
                                   className="rounded-md px-2 py-1 text-sm text-white/80 hover:bg-[#00d4ff]/10 hover:text-[#00d4ff] transition-colors duration-200"
                                 >
-                                  📲 Horizontal
+                                  Horizontal
                                 </DropdownMenuItem>
                               </DropdownMenuContent>
                             </DropdownMenu>

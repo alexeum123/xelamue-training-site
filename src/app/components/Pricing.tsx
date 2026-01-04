@@ -88,8 +88,8 @@ export function Pricing() {
               <div
                 className={`relative h-full p-8 rounded-2xl backdrop-blur-xl transition-all duration-500 ${
                   plan.popular
-                    ? "bg-gradient-to-b from-white/[0.08] to-white/[0.02] border-2 border-[#00d4ff]/40 shadow-[0_0_80px_rgba(0,212,255,0.15)]"
-                    : "bg-gradient-to-b from-white/[0.04] to-transparent border border-white/[0.08] hover:border-white/[0.15]"
+                    ? "bg-gradient-to-b from-white/[0.10] to-white/[0.03] border-2 border-[#00d4ff]/60 shadow-[0_0_80px_rgba(0,212,255,0.2),0_0_40px_rgba(0,212,255,0.1)_inset] ring-1 ring-[#00d4ff]/20"
+                    : "bg-gradient-to-b from-white/[0.04] to-transparent border border-white/20 hover:border-white/30"
                 }`}
               >
                 <div className="space-y-6">
