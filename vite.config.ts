@@ -17,7 +17,7 @@ export default defineConfig({
     },
   },
   // Configure for GitHub Pages deployment
-  base: process.env.NODE_ENV === 'production' ? '/xelamue_site/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/xelamue-training-site/' : '/',
   build: {
     outDir: 'dist',
   },
