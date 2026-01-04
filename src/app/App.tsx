@@ -1,6 +1,7 @@
 import { Navigation } from "./components/Navigation";
 import { Hero } from "./components/Hero";
 import { Benefits } from "./components/Benefits";
+import { Testimonials } from "./components/Testimonials";
 import { Pricing } from "./components/Pricing";
 import { CTASection } from "./components/CTASection";
 import { Footer } from "./components/Footer";
@@ -13,6 +14,7 @@ export default function App() {
       <Benefits />
       <Pricing />
       <CTASection />
+      <Testimonials />
       <Footer />
     </div>
   );

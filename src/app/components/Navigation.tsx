@@ -26,7 +26,7 @@ export function Navigation() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 group">
             <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#00d4ff] to-[#00ff88] group-hover:scale-110 transition-transform duration-300"></div>
-            <span className="text-xl text-white tracking-tight">APEX</span>
+            <span className="text-xl text-white tracking-tight">Xelamue</span>
           </a>
 
           {/* Desktop Navigation */}

@@ -9,7 +9,7 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#00d4ff] to-[#00ff88]"></div>
-              <span className="text-xl text-white tracking-tight">APEX</span>
+              <span className="text-xl text-white tracking-tight">Xelamue</span>
             </div>
             <p className="text-white/50 text-sm leading-relaxed">
               Elite training for elite performers. Transform your potential into reality.
@@ -94,7 +94,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/[0.05] flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-white/40 text-sm">
-            © 2026 APEX Training. All rights reserved.
+            © 2026 Xelamue Training. All rights reserved.
           </p>
           <p className="text-white/30 text-xs">
             Not intended for collecting PII or securing sensitive data.
